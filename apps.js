@@ -1,7 +1,7 @@
 var app = new Vue({
   el:'#app',
   data:{
-    show:true,
+    show:false,
     message: 'Learning conditional'
   }
 })
