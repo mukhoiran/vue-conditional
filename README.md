@@ -1,2 +1,2 @@
 # vuejs-conditional
-Documentation conditional on VueJS
+Conditional on VueJS
